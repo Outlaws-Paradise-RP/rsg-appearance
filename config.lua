@@ -1,6 +1,6 @@
 RSG = {}
 
-RSG.WelcomeText = "WELCOME TO RSG FRAMEWORK"
+RSG.WelcomeText = "WELCOME TO OUTLAWS PARADISE RP"
 
 RSG.Texts = {
     Body = "Body",
